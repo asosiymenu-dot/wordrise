@@ -1,0 +1,14 @@
+[Unit]
+Description=WordRise WebSocket Server
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+# Adjust the ExecStart path to point to the correct directory on your server
+ExecStart=/usr/bin/php /var/www/wordrise/backend_php/websocket/server.php
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

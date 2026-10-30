@@ -1,0 +1,14 @@
+{
+    "name": "wordrise/backend",
+    "description": "WordRise API & WebSocket Server",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "WordRise\\": "src/"
+        }
+    }
+}

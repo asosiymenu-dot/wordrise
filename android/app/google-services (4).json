@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482579360050",
+    "project_id": "wordrise-f9e72",
+    "storage_bucket": "wordrise-f9e72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482579360050:android:a250f6df65cf9fe2b4cf2b",
+        "android_client_info": {
+          "package_name": "uz.wordrise.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482579360050-0p3di4b1vg512cdojilneu1sve4d0jm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.wordrise.app",
+            "certificate_hash": "9de091674122f245e3e83c06097fcf5001037a22"
+          }
+        },
+        {
+          "client_id": "482579360050-prnrnlkouods44329r52gp590t7p7ql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYL8r7qlzUcBTk89j4H0AowqWe5uyNlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482579360050-prnrnlkouods44329r52gp590t7p7ql8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
